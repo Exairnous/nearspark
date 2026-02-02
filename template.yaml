@@ -7,7 +7,7 @@ Metadata:
   AWS::ServerlessRepo::Application:
     Name: nearspark
     Description: Image resizing services for Hubs Cloud
-    Author: Hubs Foundation
+    Author: 'Mozilla (Original Author), Hubs Foundation (Current Maintainer)'
     SpdxLicenseId: MPL-2.0
     LicenseUrl: LICENSE
     ReadmeUrl: README.md
